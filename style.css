@@ -63,15 +63,16 @@ background-color: rgb(204, 175, 190);
 }
 
 
-
-.head4{
-  background-image:url("bk.jpg");
-  align-items: center;
-  background-size:0rem;
-}
 .jp{
 padding-top: 0.5rem;
 width: 50%;
 align-items: center;
 margin: 0 auto;
+}
+
+.bk{
+  padding: 0.5rem;
+  width: 20%;
+  align-items: center;
+  margin: 0 auto;
 }
