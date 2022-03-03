@@ -1,8 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap');
+
+
+
 .head1{
 
 
   display: block;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
   font-weight: 10000;
   padding: 3rem;
   margin: 0 auto;
@@ -38,8 +43,8 @@
 .head2{
 font-weight: 100000;
 font-style: unset;
-padding: 5rem;
-background-image: url("istockphoto-184595458-612x612.jpg") ;
+padding: 2.5rem;
+background-image: url("23.jpg") ;
 }
 .section2{
 text-align: center;
@@ -47,13 +52,26 @@ background-image: url("") ;
 }
 .head3{
   text-align: center;
+background-color: rgb(204, 175, 190);
+
+}
 
 
-
+.section3{ 
+  align-items: center;
 
 }
 
 
 
-
+.head4{
+  background-image:url("bk.jpg");
+  align-items: center;
+  background-size:0rem;
+}
+.jp{
+padding-top: 0.5rem;
+width: 50%;
+align-items: center;
+margin: 0 auto;
 }
