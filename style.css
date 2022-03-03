@@ -1,9 +1,8 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap');
 
 
 
-.head1{
+.head1 {
 
 
   display: block;
@@ -11,68 +10,80 @@
   font-weight: 10000;
   padding: 3rem;
   margin: 0 auto;
-  text-align:center;
-  opacity: 80%;
-}
-.section1{
-    background-color: aqua;
-    background-image: url("12.jpg") ;
-    background-attachment: fixed;
-    align-items: center;
-    background-position: 0rem;
-    background-repeat: no-repeat;
-    align-items: center;
-    width: 80%;
-    text-align: center;
-    margin: 0 auto;
-    text-align: center;
-    
+  text-align: center;
+  opacity: 100%;
 }
 
-.nav1{
+.section1 {
+  background-color: aqua;
+  background-image: url("12.jpg");
+  background-attachment: fixed;
+  align-items: center;
+  background-position: 0rem;
+  background-repeat: no-repeat;
+  align-items: center;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.nav1 {
   padding: 1rem;
   text-align: center;
- background-color: rgb(221, 220, 186);
+  background-color: rgb(221, 220, 186);
   opacity: 70%;
   text-align: center;
   text-align: center;
   align-items: center;
-  
+
 }
 
-.head2{
-font-weight: 100000;
-font-style: unset;
-padding: 2.5rem;
-background-image: url("23.jpg") ;
+.head2 {
+  font-weight: 100000;
+  font-style: unset;
+  padding: 2.5rem;
+  background-image: url("23.jpg");
 }
-.section2{
-text-align: center;
-background-image: url("") ;
-}
-.head3{
+
+.section2 {
   text-align: center;
-background-color: rgb(204, 175, 190);
+  background-image: url("");
+}
+
+.head3 {
+  text-align: center;
+  background-color: rgb(204, 175, 190);
 
 }
 
 
-.section3{ 
+.section3 {
   align-items: center;
+  background-color: rgb(204, 175, 190);
+  ;
 
 }
 
 
-.jp{
-padding-top: 0.5rem;
-width: 50%;
-align-items: center;
-margin: 0 auto;
+.jp {
+  padding-top: 0.5rem;
+  width: 50%;
+  align-items: center;
+  margin: 0 auto;
 }
 
-.bk{
+.bk {
   padding: 0.5rem;
-  width: 20%;
+  width: 50%;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.js {
+  padding-top: 0.5rem;
+  width: 50%;
   align-items: center;
   margin: 0 auto;
 }
